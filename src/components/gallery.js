@@ -1,18 +1,20 @@
 import React, { Component } from 'react';
 import FbImageGrid from 'react-fb-image-grid'
-import vawterFive from '../images/vawter_five.jpg'
+
 import bgpic from '../images/background.jpg'
 import yosemiteEntrance from '../images/yosemite_entrance.jpg'
 import yosemiteMain from '../images/yosemite_main.jpg'
 import yosemiteHalfDome from '../images/yosemite_halfdome.jpg'
 import meAndMerl from '../images/me_and_merl.jpg'
-import nolaGroup from '../images/nola_group.jpg'
 import cubsGame from '../images/cubsgame.jpg'
 import denverMain from '../images/denver_main.jpg'
 import newYearsBoys from '../images/newyears_boys.jpg'
+/*
 import tailgate from '../images/tailgate.png'
+import vawterFive from '../images/vawter_five.jpg'
+import nolaGroup from '../images/nola_group.jpg'*/
 
-const photos = [vawterFive,cubsGame,denverMain,meAndMerl,tailgate,bgpic,newYearsBoys,nolaGroup,yosemiteEntrance,yosemiteMain,yosemiteHalfDome]
+const photos = [cubsGame,denverMain,yosemiteEntrance,meAndMerl,bgpic,newYearsBoys,yosemiteMain,yosemiteHalfDome]
 
 class Gallery extends Component {
     render() {

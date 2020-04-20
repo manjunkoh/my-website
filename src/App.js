@@ -32,7 +32,7 @@ function App() {
                         <FooterLinkList>
                             <a href="/">Help</a>
                             <a href="/">Privacy & Terms</a>
-                            <br/> This website is self-coded and powered by JavaScript and and hosted on Github.
+                            <br/> This website is self-coded and powered by JavaScript React and hosted on Github.
                         </FooterLinkList>
                         
                     </FooterSection>
