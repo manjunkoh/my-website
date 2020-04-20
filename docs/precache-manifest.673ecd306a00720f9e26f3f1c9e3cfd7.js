@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "894012e3aaa1b7a9e02fac8d2af13ce4",
+    "revision": "29cb267a0d0e7337eff6edf5511c28e5",
     "url": "/my-website/index.html"
   },
   {
-    "revision": "729ac88291314e5f96c0",
+    "revision": "9596f3e9780fd27f51d7",
     "url": "/my-website/static/css/2.5706590b.chunk.css"
   },
   {
-    "revision": "2f14c880e2b6264d90aa",
+    "revision": "41ce12fc5bb976601e98",
     "url": "/my-website/static/css/main.90ac44fe.chunk.css"
   },
   {
-    "revision": "729ac88291314e5f96c0",
-    "url": "/my-website/static/js/2.f081cc77.chunk.js"
+    "revision": "9596f3e9780fd27f51d7",
+    "url": "/my-website/static/js/2.54258496.chunk.js"
   },
   {
     "revision": "312687650ecf95cf2205ba748f37e6e4",
-    "url": "/my-website/static/js/2.f081cc77.chunk.js.LICENSE.txt"
+    "url": "/my-website/static/js/2.54258496.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f14c880e2b6264d90aa",
-    "url": "/my-website/static/js/main.cedc9a3b.chunk.js"
+    "revision": "41ce12fc5bb976601e98",
+    "url": "/my-website/static/js/main.c56483e3.chunk.js"
   },
   {
     "revision": "7d60f9870cc305540b02",
@@ -68,24 +68,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-website/static/media/newyears_boys.382209e0.jpg"
   },
   {
-    "revision": "6d0bdc181e23280c775cc760d2c52efa",
-    "url": "/my-website/static/media/nola_group.6d0bdc18.jpg"
-  },
-  {
     "revision": "52e73076e77220a7c4634d306749a3b6",
     "url": "/my-website/static/media/pf_example.52e73076.png"
   },
   {
     "revision": "0f4401fb924bd207a8f36f6dc862ed4e",
     "url": "/my-website/static/media/plotscript_example.0f4401fb.png"
-  },
-  {
-    "revision": "6fb2796d1198964f6ffc8cbbe503bbae",
-    "url": "/my-website/static/media/tailgate.6fb2796d.png"
-  },
-  {
-    "revision": "00b972c72797aced24f7818eef9dda3f",
-    "url": "/my-website/static/media/vawter_five.00b972c7.jpg"
   },
   {
     "revision": "1eab8e2ed74e5b143c667cd80238dd1a",
