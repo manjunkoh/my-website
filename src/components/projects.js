@@ -31,8 +31,6 @@ class Projects extends Component {
                     <CardActions border>
                         <a href="https://www.github.com/manjunkoh/plotscript" rel="noopener noreferrer" target="_blank">
                             <Button colored>GitHub</Button></a>
-                        <Button colored>CodePen</Button>
-                        <Button colored>LiveDemo</Button>
                     </CardActions>
                     <CardMenu style={{color: '#fff'}}>
                         <IconButton name="share" />
@@ -49,10 +47,8 @@ class Projects extends Component {
                         Developed with BoosterPack MKII microcontroller and CCS (Code Composer Studio). 
                     </CardText>
                     <CardActions border>
-                        <a href="https://www.github.com/manjunkoh" rel="noopener noreferrer" target="_blank">
+                        <a href="https://www.github.com/manjunkoh/guitarhero" rel="noopener noreferrer" target="_blank">
                             <Button colored>GitHub</Button></a>
-                        <Button colored>CodePen</Button>
-                        <Button colored>LiveDemo</Button>
                     </CardActions>
                     <CardMenu style={{color: '#fff'}}>
                         <IconButton name="share" />
@@ -72,8 +68,6 @@ class Projects extends Component {
                     <CardActions border>
                         <a href="https://www.github.com/manjunkoh/mips-disassembler" rel="noopener noreferrer" target="_blank">
                             <Button colored>GitHub</Button></a>
-                        <Button colored>CodewPen</Button>
-                        <Button colored>LiveDemo</Button>
                     </CardActions>
                     <CardMenu style={{color: '#fff'}}>
                         <IconButton name="share" />
@@ -96,8 +90,6 @@ class Projects extends Component {
                     <CardActions border>
                         <a href="https://www.github.com/manjunkoh/1DParticleFilter" rel="noopener noreferrer" target="_blank">
                             <Button colored>GitHub</Button></a>
-                        <Button colored>CodePen</Button>
-                        <Button colored>LiveDemo</Button>
                     </CardActions>
                     <CardMenu style={{color: '#fff'}}>
                         <IconButton name="share" />
@@ -115,8 +107,6 @@ class Projects extends Component {
                     <CardActions border>
                         <a href="https://www.github.com/manjunkoh" rel="noopener noreferrer" target="_blank">
                             <Button colored>GitHub</Button></a>
-                        <Button colored>CodePen</Button>
-                        <Button colored>LiveDemo</Button>
                     </CardActions>
                     <CardMenu style={{color: '#fff'}}>
                         <IconButton name="share" />
@@ -144,8 +134,6 @@ class Projects extends Component {
                     <CardActions border>
                         <a href="https://www.github.com/manjunkoh/my-website" rel="noopener noreferrer" target="_blank">
                             <Button colored>GitHub</Button></a>
-                        <Button colored>CodePen</Button>
-                        <Button colored>LiveDemo</Button>
                     </CardActions>
                     <CardMenu style={{color: '#fff'}}>
                         <IconButton name="share" />
