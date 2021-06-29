@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.90ac44fe.chunk.css",
+    "main.js": "/my-website/static/js/main.4ec99746.chunk.js",
+    "main.js.map": "/my-website/static/js/main.4ec99746.chunk.js.map",
+    "runtime-main.js": "/my-website/static/js/runtime-main.4444a555.js",
+    "runtime-main.js.map": "/my-website/static/js/runtime-main.4444a555.js.map",
+    "static/css/2.5706590b.chunk.css": "/my-website/static/css/2.5706590b.chunk.css",
+    "static/js/2.1ba8f1f4.chunk.js": "/my-website/static/js/2.1ba8f1f4.chunk.js",
+    "static/js/2.1ba8f1f4.chunk.js.map": "/my-website/static/js/2.1ba8f1f4.chunk.js.map",
+    "index.html": "/my-website/index.html",
+    "precache-manifest.7d73b75dd22bf84b2e24813d1c4068a7.js": "/my-website/precache-manifest.7d73b75dd22bf84b2e24813d1c4068a7.js",
+    "service-worker.js": "/my-website/service-worker.js",
+    "static/css/2.5706590b.chunk.css.map": "/my-website/static/css/2.5706590b.chunk.css.map",
+    "static/css/main.90ac44fe.chunk.css.map": "/my-website/static/css/main.90ac44fe.chunk.css.map",
+    "static/js/2.1ba8f1f4.chunk.js.LICENSE.txt": "/my-website/static/js/2.1ba8f1f4.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/my-website/static/media/background.14b11357.jpg",
+    "static/media/classify_ships.png": "/my-website/static/media/classify_ships.9c916a05.png",
+    "static/media/cubsgame.jpg": "/my-website/static/media/cubsgame.e20baa6c.jpg",
+    "static/media/default_pic.jpg": "/my-website/static/media/default_pic.75bc029a.jpg",
+    "static/media/denver_main.jpg": "/my-website/static/media/denver_main.2e779b25.jpg",
+    "static/media/guitarheropic.png": "/my-website/static/media/guitarheropic.7f1fcc4a.png",
+    "static/media/me_and_merl.jpg": "/my-website/static/media/me_and_merl.4650f270.jpg",
+    "static/media/mips_dis.png": "/my-website/static/media/mips_dis.d80a3f82.png",
+    "static/media/mywebsite.png": "/my-website/static/media/mywebsite.758aed4a.png",
+    "static/media/newyears_boys.jpg": "/my-website/static/media/newyears_boys.382209e0.jpg",
+    "static/media/pf_example.png": "/my-website/static/media/pf_example.52e73076.png",
+    "static/media/plotscript_example.png": "/my-website/static/media/plotscript_example.0f4401fb.png",
+    "static/media/yosemite_entrance.jpg": "/my-website/static/media/yosemite_entrance.1eab8e2e.jpg",
+    "static/media/yosemite_halfdome.jpg": "/my-website/static/media/yosemite_halfdome.b01c5701.jpg",
+    "static/media/yosemite_main.jpg": "/my-website/static/media/yosemite_main.00ebc01a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4444a555.js",
+    "static/css/2.5706590b.chunk.css",
+    "static/js/2.1ba8f1f4.chunk.js",
+    "static/css/main.90ac44fe.chunk.css",
+    "static/js/main.4ec99746.chunk.js"
+  ]
+}
