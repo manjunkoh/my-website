@@ -7,14 +7,14 @@ import yosemiteMain from '../images/yosemite_main.jpg'
 import yosemiteHalfDome from '../images/yosemite_halfdome.jpg'
 import cubsGame from '../images/cubsgame.jpg'
 import denverMain from '../images/denver_main.jpg'
-import newYearsBoys from '../images/newyears_boys.jpg'
 /*
+import newYearsBoys from '../images/newyears_boys.jpg'
 import tailgate from '../images/tailgate.png'
 import vawterFive from '../images/vawter_five.jpg'
 import meAndMerl from '../images/me_and_merl.jpg'
 import nolaGroup from '../images/nola_group.jpg'*/
 
-const photos = [cubsGame,denverMain,yosemiteEntrance,bgpic,newYearsBoys,yosemiteMain,yosemiteHalfDome]
+const photos = [cubsGame,denverMain,yosemiteEntrance,bgpic,yosemiteMain,yosemiteHalfDome]
 
 class Gallery extends Component {
     render() {
