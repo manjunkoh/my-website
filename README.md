@@ -1,6 +1,6 @@
 ## Overview 
 
-This is a personal/portfolio website located at [manjunkoh.com](manjunkoh.com) <br/>
+This is a personal/portfolio website located at [manjunkoh.com](https://manjunkoh.github.io/my-website/) <br/>
 The website is powered by JavaScript React with a layout from React Material Design Lite. <br/>
 It is still work in progress.; In the future it will transtion to using Bootstrap and will be fully adding blog and gallery sections.
 
