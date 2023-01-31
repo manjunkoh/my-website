@@ -25,7 +25,7 @@ class Projects extends Component {
                     `url(${ plotscriptExample }) center / cover`,height:'250px', flexWrap:'wrap'}} >Plot Script</CardTitle>
                     
                     <CardText>
-                        (BEST PROJECT) A kernel based notebook-style interpreter that performs numerical, graphical and symbolic computations. Similar to Jupyter Notebook and Mathematica, but much less complex.
+                        A kernel based notebook-style interpreter that performs numerical, graphical and symbolic computations. Similar to Jupyter Notebook and Mathematica, but much less complex.
                         Developed with Visual Studio and Qt, and tested on a reference environemnt using Vagrant. 
                     </CardText>
                     <CardActions border>
@@ -85,7 +85,7 @@ class Projects extends Component {
                     `url(${ pfExample }) center / cover`,flexWrap:'wrap'}} >1D Particle Filter</CardTitle>
                     
                     <CardText>
-                        (BEST PROJECT) 1 Dimensional Particle Filter for estimating and tracking a non-linear and non-Gaussian system that Kalman Filter can't solve. Jupyter Notebook tutorial Included.
+                        1 Dimensional Particle Filter for estimating and tracking a non-linear and non-Gaussian system that Kalman Filter can't solve. Jupyter Notebook tutorial Included.
                     </CardText>
                     <CardActions border>
                         <a href="https://www.github.com/manjunkoh/1DParticleFilter" rel="noopener noreferrer" target="_blank">
