@@ -7,6 +7,17 @@ import yosemiteMain from '../images/yosemite_main.jpg'
 import yosemiteHalfDome from '../images/yosemite_halfdome.jpg'
 import cubsGame from '../images/cubsgame.jpg'
 import denverMain from '../images/denver_main.jpg'
+import incheonShore from '../images/incheon_shore.jpg'
+import rapa from '../images/rapa.jpg'
+import jsa1 from '../images/jsa1.JPG'
+import jsa2 from '../images/jsa2.JPG'
+import promotion from '../images/promotion.JPG'
+import opo from '../images/opo.JPG'
+import lfx from '../images/lfx.JPG'
+
+
+
+
 /*
 import newYearsBoys from '../images/newyears_boys.jpg'
 import tailgate from '../images/tailgate.png'
@@ -14,7 +25,7 @@ import vawterFive from '../images/vawter_five.jpg'
 import meAndMerl from '../images/me_and_merl.jpg'
 import nolaGroup from '../images/nola_group.jpg'*/
 
-const photos = [cubsGame,denverMain,yosemiteEntrance,bgpic,yosemiteMain,yosemiteHalfDome]
+const photos = [incheonShore, jsa2, promotion, denverMain, rapa, jsa1, lfx, opo, cubsGame,yosemiteEntrance,bgpic,yosemiteMain,yosemiteHalfDome]
 
 class Gallery extends Component {
     render() {
@@ -22,7 +33,7 @@ class Gallery extends Component {
             
             <div style={{height: '100%', background:'#fff', margin:'auto'}}>
                 <span><p className='gallery-header' style={{fontFamily:'Shadows Into Light Two', fontSize:'25px',fontWeight:'bold', paddingLeft:'5%',paddingTop:'5%'}}>
-                    Gallery: it's just me and the boys boppin 
+                    Gallery: neat pics that are too cool for Instagram
                 </p></span>
                 <p></p>
                 <div style={{width: '50%', margin:'auto', paddingTop:'1%'}}>

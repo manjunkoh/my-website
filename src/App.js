@@ -10,18 +10,18 @@ function App() {
     <div className="demo-big-content">
     <Layout>
   <Header className="header-color3" title={<Link to="/" style={{ color: 'inherit', textDecoration: 'none', fontFamily: 'Pacifico', fontWeight: 'bold'}}>Man Jun Koh</Link>} scroll>
-            <Navigation style={{fontFamily:'Lato'}}>
+            <Navigation style={{fontFamily:'Lato', fontWeight: 'bolder'}}>
                 {/*<Link to="/"><i className="fa fa-home-square /"></i></Link>*/}
-                <Link to="/aboutme">About Me</Link>
-                <Link to="/projects">Projects</Link>
-                <Link to="/gallery">Gallery</Link>
+                <Link to="/aboutme" style={{fontWeight: 'bold'}}>About Me</Link>
+                <Link to="/projects" style={{fontWeight: 'bold'}}>Projects</Link>
+                <Link to="/gallery" style={{fontWeight: 'bold'}}>Gallery</Link>
             </Navigation>
         </Header>
         <Drawer title={<Link to="/" style={{ color: 'inherit', textDecoration: 'none',fontFamily: 'Pacifico', fontWeight: 'bold'}}>Man Jun Koh</Link>}>
             <Navigation style={{fontFamily:'Lato'}}>
-                <Link to="/aboutme">About Me</Link>
-                <Link to="/projects">Projects</Link>
-                <Link to="/gallery">Gallery</Link>
+                <Link to="/aboutme" style={{fontWeight: 'bold'}}>About Me</Link>
+                <Link to="/projects" style={{fontWeight: 'bold'}}>Projects</Link>
+                <Link to="/gallery" style={{fontWeight: 'bold'}}>Gallery</Link>
             </Navigation>
         </Drawer>
         <Content>
@@ -30,11 +30,8 @@ function App() {
         <Footer size="mini">
                     <FooterSection type="left" logo="Copyright 2020 Man Jun. Co">
                         <FooterLinkList>
-                            <a href="/">Help</a>
-                            <a href="/">Privacy & Terms</a>
-                            <br/> This website is self-coded and powered by JavaScript React and hosted on Github.
+                            <br/> Powered by JavaScript React and hosted on Github.
                         </FooterLinkList>
-                        
                     </FooterSection>
         </Footer>
     </Layout>
