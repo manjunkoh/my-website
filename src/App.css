@@ -216,7 +216,6 @@ background: linear-gradient(to right, #8f94fb, #4e54c8); /* W3C, IE 10+/ Edge, F
 
   .portfolio-copy {
     max-width: 750px;
-    padding-left: 10em;
   }
 
   .portfolio-copy p{ 
